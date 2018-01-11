@@ -3,7 +3,7 @@
  */
 
 function sup() {
-    console.log("Hello from Js sup()")
+    console.log("Hello from Js sup(). Yes")
 }
 
 export {sup};
